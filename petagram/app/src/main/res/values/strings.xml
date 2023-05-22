@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="welcome_message">Bienvenid@</string>
+    <string name="btn_principal_name">ENTRAR</string>
+</resources>
